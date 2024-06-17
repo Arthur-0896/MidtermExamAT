@@ -1,0 +1,7 @@
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\bin\x64\Debug\LaptopDiscount.exe.config
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\bin\x64\Debug\LaptopDiscount.exe
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\bin\x64\Debug\LaptopDiscount.pdb
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\obj\x64\Debug\LaptopDiscount.csproj.AssemblyReference.cache
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\obj\x64\Debug\LaptopDiscount.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\obj\x64\Debug\LaptopDiscount.exe
+C:\Users\rapha\OneDrive\Desktop\LaptopDiscount\LaptopDiscount\obj\x64\Debug\LaptopDiscount.pdb
